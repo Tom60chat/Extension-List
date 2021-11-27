@@ -14,6 +14,7 @@ Please don't put unpopular file extensions like:
   
 Exemple of popular files:  
 [ISO standars](https://en.unionpedia.org/List_of_International_Organization_for_Standardization_standards)  
+[List of file formats](https://en.wikipedia.org/wiki/List_of_file_formats)
   
 By unpopular, I mean, file extensions that have not been included in professional software or used very little.  
   
