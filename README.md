@@ -1,7 +1,15 @@
-# Extension-List
+# Extension List
 This is my attempt to list all existing popular file extension.  
   
 Can be used for testing purposes, such as file explorer previews.  
+
+## Extension finder Website
+[Website](https://tom60chat.github.io/Extension-List/)  
+Quick search engine, to know if a extension exist and what he look like.  
+And show can a list of every extensions. (Wiki like?)
+
+<i>That's the idea, but I won't develop it because I don't want to spend the little time I have for it.
+Feel free to develop it.</i>  
   
 ## Contribution
 You can help by adding/correcting files.
