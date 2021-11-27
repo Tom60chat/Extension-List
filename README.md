@@ -34,6 +34,8 @@ When generating a file, use default examples like:
   - For the others :  
     - Lorem Lipsum for media and visual. (Take the Lorem Lipsum from "Text Document.txt")  
     - "hello, world" for code.  
+    - 
+If possible, keep the file size small (50KB~ - 1MB~), files over 100MB are not accepted.  
   
   
 ### What if there is more than one extension for a type?
